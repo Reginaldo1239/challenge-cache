@@ -28,7 +28,7 @@ Sua missão é implementar uma aplicação que calcule o saldo de uma maneira me
 
 - [ ] Código do novo serviço GET /user/<user_id>/balance
 - [ ] Fácil inicialização, sem muitos passos para poder da o start do projeto em qualquer ambiente (README).
-- [ ] Criar testes de acordo com a necessidade do produto.
+- [ ] Criar testes de acordo com a necessidade do aplicativo.
 - [ ] Criar IaC (infraestructure as code), pode acontecer de sugir um cliente novo e precisamos subir um novo ambiente em qualquer outro lugar que seja.
 - [ ] Definir um padrão de código e explicar em algum documento junto ao source code do projeto.
 - [ ] Criar um CI CD para seu projeto usando GitHub Actions.
@@ -50,7 +50,7 @@ A maioria dos nossos cliente possuem uma área de tecnologia logo precisamos ter
 
 - [ ] Criar um fork para sua conta pessoal deste mesmo repositório e incluir no seu repositório pessoal os usuários @guiferpa e @lucasbmiguel
 - [ ] Desenvolva toda a solução em seu repositório
-- [ ] Por final faça o merge do seu projeto para um branch com o seu username do GitHub e abra uma issue assinalando o término do seu projeto. Caso necessário iremos pontua algumas coisas pela thread da issue antes mesmo de baixa o código pra teste.
+- [ ] Para entregar faça um Pull Request de uma branch com o seu username do github para a master do repositório original, em seguida abra uma issue assinalando que o Pull Request foi de fato a entrega, isso ajudará a ter uma thread na issue assinalando acertos prévios caso necessário.
 
 ### Considerações finais
 
